@@ -8,7 +8,7 @@ Contact Information: Easy-to-find links to my social media profiles and a contac
 Frontend: HTML, CSS, JavaScript <br>
 Deployment: GitHub Pages <br> <br> <br>
 <b> Usage </b> <br>
-Visit the live site at https://github.com/akashvahadne/Personal-Portfolio or run it locally to see my projects and learn more about me. <br> <br> <br>
+Visit the live site at https://akashvahadne.github.io/Personal-Portfolio/ or run it locally to see my projects and learn more about me. <br> <br> <br>
 <b> Contributing </b> <br>
 Contributions are welcome! If you have suggestions or find any issues, feel free to open an issue or submit a pull request. <br> <br> <br>
 <b> Contact </b> <br>
